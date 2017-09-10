@@ -1,0 +1,16 @@
+C:\Users\kholilpc\AppData\Local\Temporary Projects\Program Kasir\bin\Debug\Program Kasir.exe.config
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\bin\Debug\Program Kasir.exe.config
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\bin\Debug\Program Kasir.exe
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\bin\Debug\Program Kasir.pdb
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\bin\Debug\Program Kasir.xml
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.Login.resources
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.Resources.resources
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\obj\Debug\Program Kasir.vbproj.GenerateResource.Cache
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\obj\Debug\Program Kasir.exe
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\obj\Debug\Program Kasir.xml
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\obj\Debug\Program Kasir.pdb
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.home.resources
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.databarang.resources
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.brgmasuk.resources
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.penjualan.resources
+C:\Users\kholilpc\Dropbox (IT35)\IT35 Folder Tim\Ahmad Kholil\SMT3\vb2\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.transaksi.resources
